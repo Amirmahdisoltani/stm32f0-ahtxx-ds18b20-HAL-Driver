@@ -1,2 +1,2 @@
 # stm32f0-ahtxx-ds18b20d.
-this project is for running aht10/aht20 and ds18b20 sensor with stm32f03k6t6 microcontroller.
+In this project, a temperature and humidity sensor, AHT10/AHT20, and a temperature sensor, DS18B20, are interfaced with an STM32F03K6T6 microcontroller using the HAL Driver.
